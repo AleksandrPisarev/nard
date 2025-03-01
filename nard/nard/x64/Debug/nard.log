@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\Egor\Desktop\nard\Source.cpp(38,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Egor\Desktop\nard\Common.h(119,1): warning C4715: right_first_move: значение возвращается не при всех путях выполнения
+C:\Users\Egor\Desktop\nard\Player.h(172,1): warning C4715: out_ofthe_houseplayer: значение возвращается не при всех путях выполнения
+C:\Users\Egor\Desktop\nard\Computer.h(128,1): warning C4715: move_computer_fromhead: значение возвращается не при всех путях выполнения
+C:\Users\Egor\Desktop\nard\Computer.h(774,1): warning C4715: victory_computer: значение возвращается не при всех путях выполнения
+C:\Users\Egor\Desktop\nard\Computer.h(761,1): warning C4715: out_ofthe_house: значение возвращается не при всех путях выполнения
+C:\Users\Egor\Desktop\nard\Computer.h(441,1): warning C4715: move_computer_nextfromhead: значение возвращается не при всех путях выполнения
+  nard.vcxproj -> C:\Users\Egor\Desktop\nard\x64\Debug\nard.exe
